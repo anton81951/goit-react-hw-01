@@ -1,9 +1,9 @@
-table {
+.tableframe {
     width: 600px;
     margin: 50px 0 50px 20px;
 }
 
-table thead {
+.tablehead {
     background-color: black;
     color: white;
   }
@@ -21,6 +21,7 @@ table tbody tr:nth-child(even) {
   }
 
   table td, table th {
+    text-align: center;
     border: 1px solid black;
     padding: 8px;
   }
