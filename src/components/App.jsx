@@ -8,7 +8,7 @@ import transactions from "../transactions.json";
 
 
 
-import FriendList from "./Friends/FriendList";
+import FriendList from "./FriendList/FriendList";
 import TransactionHistory from "./TransactionHistory/TransactionHistory";
 
 const App = () => {
